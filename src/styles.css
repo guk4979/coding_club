@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  background-color: lightblue;
+}
+
+p {
+  color:red;
+  font-family: 'Jua', sans-serif;
+  font-size:20px;
+}
+
+div {
+  text-align:center;
+  background-color:white;
+}
